@@ -1,2 +1,3 @@
-# peppermill-casino
-Landing published by Deploy Service
+# PepperMill Casino
+
+Published by Deploy Service.
